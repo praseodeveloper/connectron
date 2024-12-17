@@ -1,0 +1,17 @@
+{
+  "name": "connectron",
+  "version": "1.0.0",
+  "description": "2023 coding challenge solution in js",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test.js"
+  },
+  "keywords": ["Connectron"],
+  "author": "Pradeep Balagangadharan",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
